@@ -18,12 +18,12 @@ help:
 
 
 build:
-	@./build.sh
+	make build -C asset/template
 .PHONY: build
 
 
 
 
 clean:
-	sudo rm -rf /opt/tmp/ezarcher
+	make clean -C asset/template
 .PHONY: clean
