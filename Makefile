@@ -6,7 +6,7 @@ help:
 	@echo 'Usage:'
 	@echo '	$$ make [action]'
 	@echo
-	@echo 'Ex:'
+	@echo 'Example:'
 	@echo '	$$ make'
 	@echo '	$$ make help'
 	@echo
