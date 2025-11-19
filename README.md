@@ -2,7 +2,7 @@
 
 # Home
 
-> [ezarcher-live-build-respin-xfce](https://samwhelp.github.io/ezarcher-live-build-respin-xfce/)
+> [ezarcher-live-build-respin-xfce](https://github.com/samwhelp/ezarcher-live-build-respin-xfce)
 
 | Project |
 | ------- |
